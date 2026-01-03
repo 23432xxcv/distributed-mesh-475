@@ -1,0 +1,1 @@
+const util_ocin = (d: any) => d;
